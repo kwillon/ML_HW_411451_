@@ -7,3 +7,5 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv("data/books.csv", sep=',')
 df.info()
+
+#
