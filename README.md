@@ -1,4 +1,4 @@
-# Optional - Machine learning for scientific data analysis
+# Optional course - Machine learning for scientific data analysis
 Student ID: 411451
 Name: Xenia K.
 
